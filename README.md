@@ -3,7 +3,7 @@
 <!--
 **Maneo9910/Maneo9910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+aiueo
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
